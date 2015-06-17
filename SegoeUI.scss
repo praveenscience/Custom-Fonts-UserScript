@@ -1,0 +1,23 @@
+* {
+  &, &:first-child, &:last-child * {
+    &, &:first-child, &:last-child * {
+      &, &:first-child, &:last-child * {
+        font-family: 'Segoe UI', 'Open Sans', sans-serif;
+      }
+    }
+  }
+}
+
+textarea, code, tt, pre {
+  &, * {
+    &, &:first-child, &:last-child * {
+      &, &:first-child, &:last-child * {
+        &, &:first-child, &:last-child * {
+          font-family: 'MonacoB2', 'Consolas', 'Courier New', monospace !important;
+          font-size: 0.75rem;
+          line-height: 1.5;
+        }
+      }
+    }
+  }
+}
