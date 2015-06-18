@@ -1,13 +1,24 @@
-        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2004 
+The KINDLY License
+Copyright (c) 2015 Praveen Kumar Purushothaman
 
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
+You have the permission to use this software, read its source code, modify and
+redistribute it under the following terms:
 
- Everyone is permitted to copy and distribute verbatim or modified 
- copies of this license document, and changing it is allowed as long 
- as the name is changed. 
+ - if you want to use this software or include parts of its code in a
+   closed-source or commercial project you should kindly ask the
+   author (via a private message or email) and get a positive answer
+ - this license should be included in the modified versions of this software
+ - in case of redistributing modified copies, you are encouraged to clearly
+   indicate that the copies are based on this work
+ - if you think that your redistributed copy is awesome, you are encouraged to
+   show the author of this software what you did and how you helped the others
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+You are free to install and use this software on as many machines as you want,
+free of charge, making sure you met the terms above.
 
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+You are encouraged to kindly support the software and its author by:
+
+ - sharing his/her work
+ - reporting issues/bugs and asking for feature requests
+ - donating money or any other things that can help the author
+ - contribute on the software code by fixing bugs and adding features

@@ -42,7 +42,7 @@ Feature requests are welcome. Please fork the project and create a pull request!
 
 ## License
 
-Released under the WTFPL Version 2, December 2004. Refer `LICENSE.md` for more details.
+Released under the The KINDLY License. See [`LICENSE.md`(./LICENSE.md) file for the license document.
 
 ## Authors
 

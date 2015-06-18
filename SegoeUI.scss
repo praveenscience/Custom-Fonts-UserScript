@@ -21,3 +21,11 @@ textarea, code, tt, pre {
     }
   }
 }
+
+.post-text, .wmd-preview {
+  ul, ol {
+    li {
+      margin-bottom: 0;
+    }
+  }
+}
