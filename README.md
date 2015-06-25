@@ -42,7 +42,7 @@ Feature requests are welcome. Please fork the project and create a pull request!
 
 ## License
 
-Released under the The KINDLY License. See [`LICENSE.md`(./LICENSE.md) file for the license document.
+Released under the The KINDLY License. See [`LICENSE.md`](./LICENSE.md) file for the license document.
 
 ## Authors
 
